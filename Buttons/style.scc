@@ -1,0 +1,16 @@
+@mixin colorVsStyle {
+    color:#f06;
+    font-style: italic;
+}
+.navbar {
+    ul.menu {
+        list-style: none;
+        li {
+            padding: 5px;
+            a {
+                text-decoration:none;
+                @include colorVsStyle;
+            }
+        }
+    }
+}

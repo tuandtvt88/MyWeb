@@ -1,0 +1,52 @@
+.header {
+    background-color: aqua;
+    height: 80px;
+}
+.logo1 {
+    height: 100%;
+    background-color: blue;
+    padding: 0;
+}
+.logo2 {
+    height: 100%;
+    background-color: brown;
+    padding: 0;
+}
+.logo2 img {
+    height: 100%;
+    width: 100%;
+}
+.logo3{
+    height: 90px;
+    background-color: blueviolet;
+}
+.col-5 img {
+    width: 20%;
+    height: 100%;
+}
+.main {
+    height: 500px;
+    background-color: antiquewhite;
+}
+.side-bar {
+    background-color: bisque;
+}
+.content {
+    background-color: gold;
+    padding: 0;
+}
+.ads {
+    background-color: chartreuse;
+}
+.top-product {
+     height: auto
+}
+.list-product {
+    height: 80%;
+    width: auto;
+    margin: 0;
+}
+.card img {
+    width: 100%;
+    height: 1%;
+}
